@@ -1,5 +1,10 @@
 ### Hi there 👋
+What do you want to do?
 
+- [ ] Work
+- [ ] Nothing 
+
+| (c) Copyright | MJneering | 2023
 <!--
 **VolodymyrRiabchuk/VolodymyrRiabchuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
