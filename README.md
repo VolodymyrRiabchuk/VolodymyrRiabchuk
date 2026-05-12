@@ -1,7 +1,3 @@
 ### 🛠️ My Tech Stack
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="skillicons.dev" />
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=py,java,powershell,bash,php,html,css,md)](https://skillicons.dev)
