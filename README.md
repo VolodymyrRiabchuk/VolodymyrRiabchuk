@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Volodymyr!
 
-### Mechanical Engineer → IT Specialist → Backend & Cloud Enthusiast 😎
+###  IT Specialist → Backend & Cloud Enthusiast → Mechanical Engineer😎
 ⭐ Always interested in learning, building, and solving complex technical challenges.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/volodymyr-riabchuk-35928964/)
